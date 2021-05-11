@@ -1,1 +1,3 @@
 site_name: Misc
+theme:
+  name: material
